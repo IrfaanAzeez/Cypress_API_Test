@@ -1,0 +1,20 @@
+{
+    "newProduct" : {
+        "title": "L'Oréal Voluminous Lash Paradise Mascara",
+        "price": 12.99,
+        "discountPercentage": 5.25,
+        "stock": 10,
+        "rating": 4.87,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Loreal%20Lash%20Paradise/thumbnail.png",
+        "description": "The L'Oréal Voluminous Lash Paradise Mascara delivers intense volume and length for bold, beautiful lashes. Its smooth glide formula provides silky, feathery softness without clumping.",
+        "brand": "L'Oréal",
+        "category": "beauty"
+    },
+
+    "updateProduct":{
+        "title" : "Update New Titile for Product Id2",
+        "price" : 99.99,
+        "category" : "fashion"
+    }
+}
+
